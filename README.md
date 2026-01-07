@@ -1,2 +1,2 @@
 # DailyProxyList
-A free daily updated and tested proxy list from all over the web 
+A free daily tested proxy list from all over the web, updated automatically
